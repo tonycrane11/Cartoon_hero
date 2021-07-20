@@ -5,6 +5,8 @@ body{
 	font-size: 20px;
 	line-height: 30px;
 }
+/*header styles */
+
 header{
 	background-color: lightblue;
 	text-align: center;
@@ -18,7 +20,7 @@ h1,h2{
 
 
 header h1{
-	color:  white;
+	color:  darkblue;
 	font-size: 100px
 
 
